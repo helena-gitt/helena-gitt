@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">Brasil<br><br><br>- 📚 Aprendendo C++</p>
+<p align="left">Brasil<br><br><br>- 
 
 ###
 
@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
